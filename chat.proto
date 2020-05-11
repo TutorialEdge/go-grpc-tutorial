@@ -1,5 +1,6 @@
 syntax = "proto3";
 package chat;
+option go_package = ".;chat";
 
 message Message {
     string body = 1;

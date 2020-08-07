@@ -1,4 +1,4 @@
-module github.com/tutorialedge/go-grpc-tutorial
+module github.com/srivignessh/go-grpc-tutorial
 
 go 1.13
 
